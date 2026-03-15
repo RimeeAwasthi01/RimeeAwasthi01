@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning web development.
 - 📫 How to reach me: rimee0201@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Skills: C | JAVA | MySQL | HTML | CSS | Bootstrap | DSA | JDBC
+- ⚡ Skills: C | JAVA | MySQL | HTML | CSS | Bootstrap | DSA | JDBC | C++ |
 
 
