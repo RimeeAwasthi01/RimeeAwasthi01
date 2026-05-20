@@ -22,7 +22,7 @@
 - MySQL  
 
 ### 📊 Data Analysis
-- Pandas, NumPy, Matplotlib  
+- Pandas, NumPy, Matplotlib, Seaborn
 
 ### 🌐 Web (Basic)
 - HTML, CSS  
