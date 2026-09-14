@@ -20,10 +20,7 @@
 ### 🗄 Database
 - MySQL
 
-  💻 Programming
-- C, C++, Java, Python
-
-🤖 Machine Learning
+### 🤖 Machine Learning
 - Model Comparison & Evaluation, Scikit-learn
 
 ### 📊 Data Analysis
